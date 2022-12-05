@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="button">click button</string>
+    <string name="dialogDeleteTitle">Delete This Note ?</string>
+    <string name="dialogSaveChangeTitle">Save the change ?</string>
+    <string name="dialogMessage">Deleting file may be harm your system</string>
+</resources>
